@@ -6,7 +6,9 @@
 ````markdown
 # Async M3U / M3U8 Stream Checker
 
-An asynchronous bulk checker for **M3U / M3U8 playlist files** that validates internet streams, detects **geo-blocked URLs**, and outputs cleaned playlists while preserving the original M3U formatting.
+An asynchronous bulk checker for **M3U / M3U8 playlist files**
+that validates internet streams, detects **geo-blocked URLs**,
+and outputs cleaned playlists while preserving the original M3U formatting.
 
 Designed for **large IPTV playlists** with thousands of links.
 
@@ -149,6 +151,7 @@ tqdm>=4.65
 ````
 
 ---
+
 
 
 
