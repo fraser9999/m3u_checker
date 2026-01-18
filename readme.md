@@ -73,7 +73,8 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 1. Place your playlist file in the project directory
-2. Edit the input filename if necessary:
+2. Copy or enter Playlist Path into Input Field 
+3. (Alternative: Edit the input filename if necessary:)
 
 ```python
 INPUT_M3U = "input.m3u"
@@ -151,6 +152,7 @@ tqdm>=4.65
 ````
 
 ---
+
 
 
 
